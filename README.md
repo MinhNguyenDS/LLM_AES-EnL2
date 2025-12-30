@@ -1,2 +1,3 @@
-# LLM_AES-EnL2
-This repository contains data and scripts of a LLM for auto-scoring IELTS essays
+# LLM-based Automated Essay Scoring for English L2: A Systematic Comparison of Fine-Tuning, Prompting, RAG, Preference Optimization
+
+This repository contains the official implementation of paper **LLM-based Automated Essay Scoring for English L2**.
